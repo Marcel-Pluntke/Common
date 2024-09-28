@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hEo+Pj540K10lumgws6LbHrxd33gtdli+iX4T0T2o2S3IhZlLz/mvFi2/iDRjaWGxQpE3jq3XgPt8roQNWd0Xw==",
+  "success": true,
+  "projectFilePath": "/home/marcel/Dokumente/Projects/CheatSheatCSharp/CheatSheatCSharp.csproj",
+  "expectedPackageFiles": [
+    "/home/marcel/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/home/marcel/Dokumente/Projects/CheatSheatCSharp/bin/Debug/net8.0/CheatSheatCSharp
+/home/marcel/Dokumente/Projects/CheatSheatCSharp/bin/Debug/net8.0/CheatSheatCSharp.deps.json
+/home/marcel/Dokumente/Projects/CheatSheatCSharp/bin/Debug/net8.0/CheatSheatCSharp.runtimeconfig.json
+/home/marcel/Dokumente/Projects/CheatSheatCSharp/bin/Debug/net8.0/CheatSheatCSharp.dll
+/home/marcel/Dokumente/Projects/CheatSheatCSharp/bin/Debug/net8.0/CheatSheatCSharp.pdb
+/home/marcel/Dokumente/Projects/CheatSheatCSharp/obj/Debug/net8.0/CheatSheatCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcel/Dokumente/Projects/CheatSheatCSharp/obj/Debug/net8.0/CheatSheatCSharp.AssemblyInfoInputs.cache
+/home/marcel/Dokumente/Projects/CheatSheatCSharp/obj/Debug/net8.0/CheatSheatCSharp.AssemblyInfo.cs
+/home/marcel/Dokumente/Projects/CheatSheatCSharp/obj/Debug/net8.0/CheatSheatCSharp.csproj.CoreCompileInputs.cache
+/home/marcel/Dokumente/Projects/CheatSheatCSharp/obj/Debug/net8.0/CheatSheatCSharp.dll
+/home/marcel/Dokumente/Projects/CheatSheatCSharp/obj/Debug/net8.0/refint/CheatSheatCSharp.dll
+/home/marcel/Dokumente/Projects/CheatSheatCSharp/obj/Debug/net8.0/CheatSheatCSharp.pdb
+/home/marcel/Dokumente/Projects/CheatSheatCSharp/obj/Debug/net8.0/CheatSheatCSharp.genruntimeconfig.cache
+/home/marcel/Dokumente/Projects/CheatSheatCSharp/obj/Debug/net8.0/ref/CheatSheatCSharp.dll
